@@ -1,3 +1,8 @@
+### About this fork
+
+This fork is devoid of dependence "phantomjs", so "phantom" module will use Phantom version installed locally.
+Also "getPhantom" method is added in order to be able to get current "phantom" module instance.
+
 jquery.go.js
 ==============
 An easy-to-use web testing and automation tool that uses the jQuery interface

@@ -20,7 +20,6 @@
     "underscore": ">=0",
     "async": ">=0",
     "asyncgo": ">=0",
-    "phantom": ">=0",
-    "phantomjs": "~1.9.1-9"
+    "phantom": ">=0"
   }
 }
